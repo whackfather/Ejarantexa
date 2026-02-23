@@ -8,3 +8,6 @@ int main(int argc, char *argv[]) {
     w.show();
     return a.exec();
 }
+
+// These are new comments to test git
+// Git is so silly and makes me chuckle
