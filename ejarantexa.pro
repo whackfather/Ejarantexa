@@ -13,7 +13,9 @@ SOURCES += \
     mainwindow.cpp
 
 HEADERS += \
-    mainwindow.h
+    StarTest.h \
+    mainwindow.h \
+    planetTest.h
 
 FORMS += \
     mainwindow.ui
