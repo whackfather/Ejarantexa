@@ -9,10 +9,16 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    Planet.cpp \
+    Star.cpp \
+    UnitConversion.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
+    Planet.h \
+    Star.h \
+    UnitConversion.h \
     mainwindow.h
 
 FORMS += \
