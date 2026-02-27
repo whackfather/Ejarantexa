@@ -1,5 +1,5 @@
-#ifndef STARTEST_H
-#define STARTEST_H
+#ifndef STAR_H
+#define STAR_H
 
 #include <vector>
 #include <string>
@@ -133,4 +133,4 @@ class Star{
         bool determineSutabilityForEarthLikeLife();
 };
 
-#endif // STARTEST_H
+#endif // STAR_H

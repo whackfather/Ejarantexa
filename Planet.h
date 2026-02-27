@@ -1,7 +1,7 @@
-#ifndef PLANETTEST_H
-#define PLANETTEST_H
+#ifndef PLANET_H
+#define PLANET_H
 
-#include "StarTest.h"
+#include "Star.h"
 #include <string>
 #include <vector>
 
@@ -227,4 +227,4 @@ class Planet{
 
 };
 
-#endif // PLANETTEST_H
+#endif // PLANET_H

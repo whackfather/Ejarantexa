@@ -1,0 +1,4 @@
+#ifndef UNITCONVERSION_H
+#define UNITCONVERSION_H
+
+#endif // UNITCONVERSION_H
